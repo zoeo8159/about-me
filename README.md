@@ -8,3 +8,10 @@ _High School of Telecommunications Arts & Technology_
 
 ***Schedule***
 1. Chemistry
+2. SEP
+3. Global History
+4. Algebra
+5. AP Spanish
+6. Lunch
+7. BHP
+8. Dance
