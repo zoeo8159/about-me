@@ -7,4 +7,4 @@ _High School of Telecommunications Arts & Technology_
 <ul> She started doing many different sports & courses & later on settled with art & technology.</ul>
 
 ***Schedule***
-<ol> Chemistry </ol>
+1. Chemistry
